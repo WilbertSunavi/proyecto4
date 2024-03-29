@@ -1,0 +1,100 @@
+
+.anton-regular {
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container{
+    height: 100px; width: 200px;
+}
+
+.container-fluid
+{
+    /*background-color:fuchsia;
+    height: 100px;*/
+}
+.row
+{
+    /*background-color:aquamarine;*/
+    margin: 5px;
+}
+.col{
+    /*background-color: darkorange;*/
+    margin: 5px;
+}
+.navbar-brand{
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 25px;
+    color: rgba(240, 69, 7, 0.733);
+}
+.navbar-brand:hover{
+    color: rgb(247, 5, 5);
+    transition: 0.3s;
+}
+.navbar-toggler-icon{
+    color: rgb(118, 19, 19);
+}
+.accordion-button{
+    text-align: center;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: rgb(42, 165, 165);
+    font-size: 30px;
+}
+.accordion-button:hover{
+    text-align: left;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: rgb(26, 252, 211);
+    transition: 0.3s;
+}
+.accordion-button{
+    background-color: rgb(4, 4, 3);
+}
+.accordion-collapse{
+    background-color: rgb(148, 142, 142);
+}
+.card{
+    height: 100%;
+    width: 100%;
+}
+.card-body{
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+.mb-3{
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+.form-control{
+    text-align: center;
+}
+.btn btn-primary{
+    text-align: center;
+}
+.xd{
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.row g-3{
+    background-color: #092635;
+}
